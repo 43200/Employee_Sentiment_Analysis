@@ -1,0 +1,32 @@
+{
+  "latest_month": "2011-12-01 00:00:00",
+  "top_3_positive": [
+    {
+      "employee_id": "1039",
+      "avg_sentiment_score": -1.0
+    },
+    {
+      "employee_id": "1048",
+      "avg_sentiment_score": -1.0
+    },
+    {
+      "employee_id": "1138",
+      "avg_sentiment_score": -1.0
+    }
+  ],
+  "top_3_negative": [
+    {
+      "employee_id": "1039",
+      "avg_sentiment_score": -1.0
+    },
+    {
+      "employee_id": "1048",
+      "avg_sentiment_score": -1.0
+    },
+    {
+      "employee_id": "1138",
+      "avg_sentiment_score": -1.0
+    }
+  ],
+  "flight_risks": []
+}
