@@ -48,5 +48,4 @@ EMPLOYEE_SENTIMENT_PROJECT/
 2. Check `outputs/` — make sure all CSVs & PNGs are saved.  
 3. Compress the folder:
 =======
-# Employee_Sentiment_Analysis
->>>>>>> f46ff9fb7fa65288be3ec3b74c3fa1bbb70e8ba6
+
